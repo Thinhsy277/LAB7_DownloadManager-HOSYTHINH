@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base app theme -->
+    <style name="Theme.LAB7" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- NoActionBar variant -->
+    <style name="Theme.LAB7.NoActionBar" parent="Theme.LAB7">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

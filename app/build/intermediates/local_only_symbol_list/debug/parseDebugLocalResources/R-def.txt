@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_dark_primary
+color md_theme_light_primary
+drawable ic_download
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCancel
+id btnDownload
+id btnPause
+id btnResume
+id edtUrl
+id progressBar
+id tvStatus
+id tvTitle
+id txtLink
+id txtPercent
+id txtTitle
+layout activity_main
+layout notification_download
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.LAB7
+style Theme.LAB7.NoActionBar

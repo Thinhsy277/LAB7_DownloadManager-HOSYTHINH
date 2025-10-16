@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.LAB7" parent="Theme.Material3.DayNight">
+        <!-- Night overrides if needed -->
+    </style>
+</resources>
